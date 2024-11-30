@@ -18,7 +18,7 @@ lib/
 lib64/
 images/
 data/
-run/
+runs/
 dataset/
 parts/
 sdist/
